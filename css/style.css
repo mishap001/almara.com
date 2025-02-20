@@ -66,7 +66,7 @@ h1 {
   content: "";
   width: 1.7rem;
   height: 1.7rem;
-  top: 50%;
+  top: 47%;
   left: 14px;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
@@ -305,10 +305,10 @@ img {
   }
 
   .form_items li {
-    font-size: 0.8rem;
+    font-size: 17px;
   }
 
-  .logo{padding-bottom: 1rem;}
+  .logo{padding-bottom: 1rem !important;}
 
   .f_btn {
     font-size: 15px;
@@ -325,11 +325,11 @@ img {
   }
 
   h1 {
-    font-size: 2rem;
+    font-size: 37px;
     font-weight: 500;
   }
 
-  .logo{padding-bottom: 1rem;}
+  .logo{padding-bottom: 1rem !important;}
 
   .f_btn {
     font-size: 15px;
