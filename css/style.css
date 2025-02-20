@@ -289,7 +289,7 @@ img {
 }
 @media screen and (max-width: 767px) {
   .step_progress .step {
-    width: 5rem;
+    width: 45px;
   }
   .step_progress .step:not(:last-child) {
     margin-right: 1.5rem;
