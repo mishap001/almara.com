@@ -316,7 +316,7 @@ img {
     padding: 0.5375rem 1.1625rem;
   }
   .question_number {
-    padding-top: 1rem;
+    padding-top: 3rem;
 }
 }
 @media screen and (max-width: 575px) {
@@ -336,7 +336,7 @@ img {
     padding: 0.5375rem 1.1625rem;
   }
   .question_number {
-    padding-top: 1rem;
+    padding-top: 3rem;
 }
 }
 
