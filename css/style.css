@@ -323,7 +323,8 @@ img {
   span {
     font-size: 0.8rem;
   }
-
+.img-logo{width: 155px;}
+  
   h1 {
     font-size: 40px;
     font-weight: 500;
