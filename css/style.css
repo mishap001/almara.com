@@ -308,6 +308,8 @@ img {
     font-size: 0.8rem;
   }
 
+  .logo{padding-bottom: 1rem;}
+
   .f_btn {
     font-size: 0.8rem;
     font-weight: 500;
@@ -323,6 +325,8 @@ img {
     font-size: 2rem;
     font-weight: 500;
   }
+
+  .logo{padding-bottom: 1rem;}
 
   .f_btn {
     font-size: 0.6rem;
